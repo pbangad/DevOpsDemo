@@ -1,0 +1,5 @@
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\SampleSite\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\SampleSite\WebApplication1\bin\WebApplication1.dll
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\SampleSite\WebApplication1\bin\WebApplication1.pdb
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\SampleSite\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\SampleSite\WebApplication1\obj\Release\WebApplication1.pdb

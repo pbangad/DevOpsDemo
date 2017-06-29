@@ -1,0 +1,6 @@
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\WCFService\ServiceConsumer\bin\Debug\ServiceConsumer.exe.config
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\WCFService\ServiceConsumer\bin\Debug\ServiceConsumer.exe
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\WCFService\ServiceConsumer\bin\Debug\ServiceConsumer.pdb
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\WCFService\ServiceConsumer\obj\Debug\ServiceConsumer.csprojResolveAssemblyReference.cache
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\WCFService\ServiceConsumer\obj\Debug\ServiceConsumer.exe
+C:\Users\pbangad\Documents\Visual Studio 2017\Projects\WCFService\ServiceConsumer\obj\Debug\ServiceConsumer.pdb
