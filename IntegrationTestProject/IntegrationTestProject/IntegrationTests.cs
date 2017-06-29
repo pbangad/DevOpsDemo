@@ -11,7 +11,6 @@ namespace IntegrationTestProject
         {
             var srv = new sRefCalc.CalcClient();
             Assert.AreEqual(srv.MultiplyNumbers(1, 2), 10.2);
-
         }
     }
 }
