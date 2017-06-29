@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
-        Sample Site<br />
+        Sample Site - Test<br />
         <br />
         <asp:Button ID="BTN1" runat="server" Text="ClickMe" OnClick="BTN1_Click" />
         <br />
