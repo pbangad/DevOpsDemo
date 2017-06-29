@@ -44,5 +44,6 @@ Copyright (C) Microsoft Corporation. All rights reserved.
       <Value>$(AssemblyVersion)</Value>
     </AssemblyAttributes>
   </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!--Import Project="$(_WebPublishTargetsPath)\Web\Microsoft.WebSite.Publishing.targets" /-->
 </Project>
