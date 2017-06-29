@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSiteUnitTests", "..\SampleSiteUnitTests\SampleSiteUnitTests\SampleSiteUnitTests.csproj", "{3AD7C72D-72AA-4FE3-B3B5-9EB6F8600CDE}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SampleSite(1)", "..\SampleSite\", "{76D71D6B-AE5D-48C6-AE49-53794E441091}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SampleSite", "..\SampleSite\", "{76D71D6B-AE5D-48C6-AE49-53794E441091}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_62215"
@@ -26,6 +26,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SampleSite(1)", "..\SampleS
 		SlnRelativePath = "..\SampleSite\"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcService", "..\CalcService\CalcService\CalcService.csproj", "{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{76D71D6B-AE5D-48C6-AE49-53794E441091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D71D6B-AE5D-48C6-AE49-53794E441091}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{76D71D6B-AE5D-48C6-AE49-53794E441091}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
