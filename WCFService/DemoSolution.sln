@@ -28,6 +28,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SampleSite", "..\SampleSite
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcService", "..\CalcService\CalcService\CalcService.csproj", "{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestProject", "..\IntegrationTestProject\IntegrationTestProject\IntegrationTestProject.csproj", "{2728F9F6-6730-4CF5-9679-962501DCC61F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D57AFAE-983C-4E76-80A1-4A2765EE1FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2728F9F6-6730-4CF5-9679-962501DCC61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2728F9F6-6730-4CF5-9679-962501DCC61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2728F9F6-6730-4CF5-9679-962501DCC61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2728F9F6-6730-4CF5-9679-962501DCC61F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
