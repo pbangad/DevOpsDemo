@@ -11,7 +11,8 @@ namespace Demo.SampleSiteUnitTests
         {
             var calc = new Calc();
             Assert.AreEqual(calc.AddNumbers(1, 2), 10.0);
+
         }
     }
-    [TestClass]public class Sitetest{[TestMethod] public void AssertButtonInvisible() { Assert.AreEqual(0, 0); } }
+    //[TestClass]public class Sitetest{[TestMethod] public void AssertButtonInvisible() { Assert.AreEqual(0, 0); } }
 }
